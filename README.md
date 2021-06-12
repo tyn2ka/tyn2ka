@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tyn2ka
-- 👀 I’m interested in sport
+- 👀 I’m interested in sport, medicine and testing
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
